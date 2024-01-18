@@ -15,9 +15,7 @@ http://localhost:8080/h2-console
 
 ## Algunos comandos utiles:
 cd biblioteca; chmod +x ./gradlew; ./gradlew --info clean bootRun
-
 cd biblioteca; chmod +x ./gradlew; ./gradlew --info clean test
-
 cd biblioteca; chmod +x ./gradlew; ./gradlew --info clean build
 
 ## Archivos de solo lectura:
