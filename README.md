@@ -1,5 +1,5 @@
 # back_prueba_I
-Si tienes cierta sitúa (Ur) y ya le diste 2 oportunidades ni le des mas chance haz el reporte si no sabes dónde escríbeme ;) éxitos! ---> se encarga de revisar los prestamos de libros de una biblioteca y demás ...
+;) éxitos! ---> se encarga de revisar los prestamos de libros de una biblioteca y demás ...
 
 ## Tencnologías a usar:
 - Java version: 1.8
